@@ -12,8 +12,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <MyButton/>
-    <div></div>
-    <button>Click Me</button>
     <App />
   </React.StrictMode>
 );
