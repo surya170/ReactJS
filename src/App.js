@@ -1,12 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <h1>Welcome to React World</h1>
-    </div>
-  );
+function App(){
+  return <div> My App Component</div>
 }
 
 export default App;
