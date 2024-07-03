@@ -3,8 +3,8 @@ import Button from "./components/Button";
 function App(){
    return (
     <div>
-      <h1>My App Component</h1>
       <Button/>
+      <h1>Click Me</h1>
     </div>
    );
 }
