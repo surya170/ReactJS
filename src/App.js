@@ -1,5 +1,10 @@
 function App(){
-  return <div> My App Component</div>
+   return (
+    <div>
+      <h1>My App Component</h1>
+      <Button/>
+    </div>
+   );
 }
 
 export default App;
